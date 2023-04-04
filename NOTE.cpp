@@ -566,6 +566,8 @@ int main() {
     SetConsoleCP(1251);
     SetConsoleOutputCP(1251);
 
+    cout << "Hello world" << endl;
+
     NOTE note;
     string BUTTON;
     while (true) {
